@@ -3,6 +3,7 @@
 	"displayName": "Only Quit Command",
 	"description": "Quit with the command 'Quit'!",
 	"version": "1.0.0",
+	"publisher": "Sankyuri",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
